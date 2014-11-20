@@ -1,0 +1,18 @@
+FB SAMPLE DATA:
+
+Profile Pic:
+<img class="profilePic img" alt="Zack Moore" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c31.0.160.160/p160x160/10247471_10152029498408372_7821764248407233905_n.jpg?oh=7f2aa2b9ab80ff80e0ef9a8d9d1bbcda&amp;oe=54EA5F2E&amp;__gda__=1424690737_11cce60d3433d4f758a73556f7489085" />
+
+Cover Photo:
+<img class="coverPhotoImg photo img" src="https://scontent-a-lga.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/c0.108.851.315/p851x315/10255917_10152053752813372_227623414636406015_n.jpg?oh=7c5349ae8d67d66090863d8338497f97&amp;oe=54EAC80F" style="top:0px;width:100%" data-fbid="10152053752813372" alt="Cover Photo" />
+
+Study:
+<li class="_4_ug">Studied at <a class="profileLink" href="https://www.facebook.com/pages/Westmount-Collegiate-Institute/111870548839673?ref=br_rs" data-hovercard="/ajax/hovercard/page.php?id=111870548839673">Westmount Collegiate Institute</a></li>
+
+Lives:
+<li class="_4_ug">Lives in <a class="profileLink" href="https://www.facebook.com/pages/Toronto-Ontario/110941395597405?ref=br_rs" data-hovercard="/ajax/hovercard/page.php?id=110941395597405">Toronto, Ontario</a></li>
+
+From:
+<li class="_4_ug">([\s\w]+)(<a.*">)([\S\s\w,]*)</a></li>
+
+<li class="_4_ug">From <a class="profileLink" href="https://www.facebook.com/pages/Toronto-Ontario/110941395597405?ref=br_rs" data-hovercard="/ajax/hovercard/page.php?id=110941395597405">Toronto, Ontario</a></li>
